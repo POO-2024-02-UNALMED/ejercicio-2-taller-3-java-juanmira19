@@ -18,6 +18,7 @@ public class Producto {
     }
 
     public void setCodigo(int codigo) {
+        return;
     }
 
     public int getCodigo() {
